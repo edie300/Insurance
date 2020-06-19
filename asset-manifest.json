@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Insurance/static/css/main.38be9fba.chunk.css",
+    "main.js": "/Insurance/static/js/main.94a7a04b.chunk.js",
+    "main.js.map": "/Insurance/static/js/main.94a7a04b.chunk.js.map",
+    "runtime-main.js": "/Insurance/static/js/runtime-main.35305cfd.js",
+    "runtime-main.js.map": "/Insurance/static/js/runtime-main.35305cfd.js.map",
+    "static/css/2.7be311a7.chunk.css": "/Insurance/static/css/2.7be311a7.chunk.css",
+    "static/js/2.859b6c44.chunk.js": "/Insurance/static/js/2.859b6c44.chunk.js",
+    "static/js/2.859b6c44.chunk.js.map": "/Insurance/static/js/2.859b6c44.chunk.js.map",
+    "index.html": "/Insurance/index.html",
+    "precache-manifest.9fff4b15582debedc2acd41ab602acb2.js": "/Insurance/precache-manifest.9fff4b15582debedc2acd41ab602acb2.js",
+    "service-worker.js": "/Insurance/service-worker.js",
+    "static/css/2.7be311a7.chunk.css.map": "/Insurance/static/css/2.7be311a7.chunk.css.map",
+    "static/css/main.38be9fba.chunk.css.map": "/Insurance/static/css/main.38be9fba.chunk.css.map",
+    "static/js/2.859b6c44.chunk.js.LICENSE.txt": "/Insurance/static/js/2.859b6c44.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/Insurance/static/media/1.11fbcc47.jpg",
+    "static/media/2.jpg": "/Insurance/static/media/2.5a567a6e.jpg",
+    "static/media/3.jpg": "/Insurance/static/media/3.45b87ba2.jpg",
+    "static/media/4.jpg": "/Insurance/static/media/4.c5ce1933.jpg",
+    "static/media/5.jpg": "/Insurance/static/media/5.9b313b63.jpg",
+    "static/media/6.jpg": "/Insurance/static/media/6.abe2f0df.jpg",
+    "static/media/7.jpg": "/Insurance/static/media/7.84505fb0.jpg",
+    "static/media/index.css": "/Insurance/static/media/Poppins-SemiBold.342ba3d8.ttf",
+    "static/media/avater.jpg": "/Insurance/static/media/avater.dec31567.jpg",
+    "static/media/font-awesome.min.css": "/Insurance/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/funeral.jpg": "/Insurance/static/media/funeral.baae1ab5.jpg",
+    "static/media/home.jpg": "/Insurance/static/media/home.a4a1dd33.jpg",
+    "static/media/Nav.css": "/Insurance/static/media/landingpage.32c477b4.png",
+    "static/media/medical.jpg": "/Insurance/static/media/medical.17fcda6d.jpg",
+    "static/media/motor.jpg": "/Insurance/static/media/motor.86e631ea.jpg",
+    "static/media/motor1.jpg": "/Insurance/static/media/motor1.6a49bc97.jpg",
+    "static/media/totum.png": "/Insurance/static/media/totum.e4e3d40f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35305cfd.js",
+    "static/css/2.7be311a7.chunk.css",
+    "static/js/2.859b6c44.chunk.js",
+    "static/css/main.38be9fba.chunk.css",
+    "static/js/main.94a7a04b.chunk.js"
+  ]
+}
